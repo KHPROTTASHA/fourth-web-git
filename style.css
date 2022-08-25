@@ -1,4 +1,52 @@
-.highlite{
-    color: whitesmoke;
-    background-image: linear-gradient(cyan,blueviolet);
+body{
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Monoton', cursive;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'Poiret One', cursive;
+    font-family: 'Shrikhand', cursive;
+
+    margin: 0;
 }
+.highlite{
+    color:blueviolet ;
+}
+h3{
+    font-size: 40px;
+    color: brown;
+}
+.half-width{
+    width: 40%;
+    padding:2%;
+    float:left;
+    margin: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.litter-big{
+    font-size: 50px;
+}
+.button{
+    
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(30deg, lightsalmon,tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 400;
+
+}
+.dix{
+    display: flex;
+}
+.one-width{
+width: 25%;
+padding: 1%;
+margin: 1%
+}
+.one-width img{
+    width: 100%;
+}
+
+    
